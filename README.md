@@ -1,5 +1,8 @@
 # Salon Booking Voice Assistant
 
+![image](https://github.com/user-attachments/assets/09734e73-5f43-4670-890a-7702d899650e)
+
+
 Welcome to the **Salon Booking Voice Assistant**! 🎤💇‍♀️ This project allows users to book salon appointments using voice commands. It leverages **React**, **Node.js**, **Stripe** for payment processing, and **Wit.ai** for voice-to-text transcription and intent recognition.
 
 ---
@@ -158,22 +161,6 @@ The user completes the payment using Stripe's secure payment form.
 6. Confirmation ✅
 After the payment is successful, the booking is finalized, and a confirmation message is displayed to the user.
 
-# Screenshots 📸
-Voice Recording Interface 🎙️:
-
-Users tap the mic 🎤 to start recording and book appointments.
-
-Booking Details 📝:
-
-Displays confirmed booking details (service, stylist, time, etc.).
-
-Payment Form 💳:
-
-The Stripe payment form for users to complete the booking.
-
-Confirmation ✅:
-
-Payment success confirmation after completing the transaction.
 
 # Future Improvements 🔮
 Voice Feedback 🗣️: Add voice feedback to confirm booking details and payment status.
