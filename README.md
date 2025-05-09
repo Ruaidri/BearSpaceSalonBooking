@@ -5,6 +5,8 @@
 
 Welcome to the **Salon Booking Voice Assistant**! 🎤💇‍♀️ This project allows users to book salon appointments using voice commands. It leverages **React**, **Node.js**, **Stripe** for payment processing, and **Wit.ai** for voice-to-text transcription and intent recognition.
 
+Read the slots.js file to see the data table for the stylists and their offered services and times (They are available 9 to 3pm for 7 days from the current date)
+
 ---
 
 ## Features ✨
